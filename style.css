@@ -1,0 +1,120 @@
+
+body {
+  text-align: center;
+  background-color:#fdffd4;
+}
+
+#signUp {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  width: 280px;
+}
+
+#userLogin {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  width: 280px;
+}
+
+#newUserDiv {
+  max-width: 600px;
+  padding: 20px;
+  margin: auto;
+  border: solid;
+}
+
+#loginDiv {
+  margin: auto;
+  border: solid;
+  border-width: 2px;
+  padding: 80px;
+  width: 500px;
+}
+
+.submitButton {
+   background-color: #4CAF50;
+   color: white;
+   padding: 16px 20px;
+   border: none;
+   cursor: pointer;
+   width: 20%;
+   margin-bottom:10px;
+   opacity: 0.8;
+}
+
+
+#createToDoList {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+#renameList {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  margin-bottom:10px;
+  margin-left: 500px;
+  opacity: 0.8;
+}
+
+#addItemToList {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  margin-bottom:10px;
+  margin-left: 500px;
+  opacity: 0.8;
+}
+
+#saveList {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  margin-bottom:10px;
+  margin-left: 500px;
+  opacity: 0.8;
+}
+
+
+#toDoListActions {
+  margin-top: 25px;
+  margin-left: 200px;
+  margin-right: auto;
+  width: 275px;
+}
+
+.errorMessage {
+  color: red;
+  font-size: 18px;
+}
+
+#dashboard {
+  margin: auto;
+  border: solid;
+  border-width: 2px;
+  padding: 20px;
+  width: 200px;
+}
