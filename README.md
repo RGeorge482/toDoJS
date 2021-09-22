@@ -39,5 +39,5 @@ This is a To-Do app where users can sign up, log in and if they don’t fill up 
 
 ![r1](https://user-images.githubusercontent.com/69143183/130024871-46604e9a-52d8-4af3-9e2c-e93e330c0805.jpg)
 ![r2](https://user-images.githubusercontent.com/69143183/130024879-4003fb47-1e79-4e21-8175-ecb3cd10b60f.jpg)
-![r3](https://user-images.githubusercontent.com/69143183/130024897-b45a2602-e0be-434c-ae96-915d92b214c4.jpg)
+
 
